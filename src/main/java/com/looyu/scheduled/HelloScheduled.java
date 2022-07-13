@@ -17,6 +17,7 @@ public class HelloScheduled {
     @Scheduled(cron = "1 * * * * * *")
     public void sayHello() {
         System.out.println("hello");
+        System.out.println("hello git 1");
     }
 
 }
