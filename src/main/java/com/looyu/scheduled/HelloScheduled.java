@@ -19,6 +19,7 @@ public class HelloScheduled {
         System.out.println("hello");
         System.out.println("hello git 1");
         System.out.println("hello git 2");
+        System.out.println("hello git 3");
     }
 
 }
